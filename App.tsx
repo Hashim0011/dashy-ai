@@ -34,13 +34,6 @@ const App: React.FC = () => {
      const saved = localStorage.getItem('saas_dashboard_settings');
      const parsed = saved ? JSON.parse(saved) : DEFAULT_SETTINGS;
      
-     const OLD_TEST_URL = '';
-     const NEW_PROD_URL = (import.meta.env.VITE_N8N_CHAT_WEBHOOK_URL || '');
-     
-     if (parsed.chatWebhookUrl === OLD_TEST_URL) {
-         parsed.chatWebhookUrl = NEW_PROD_URL;
-         localStorage.setItem('saas_dashboard_settings', JSON.stringify(parsed));
-     }
      return parsed;
   });
 
