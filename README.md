@@ -4,6 +4,8 @@
 
 **An AI-powered analytics dashboard that turns a Google Sheet into live KPIs, smart charts, what-if forecasting, and an AI analyst you can talk to.**
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open-0FBB7E?style=for-the-badge&logo=githubpages&logoColor=white)](https://hashim0011.github.io/dashy-ai/)
+
 ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
