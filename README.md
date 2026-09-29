@@ -11,6 +11,9 @@
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 
+
+<img src="docs/preview.webp" alt="DashyAI dashboard preview" width="820" />
+
 </div>
 
 ## Overview
